@@ -1,0 +1,10 @@
+use the arrow keys to move the character
+when you walk into the pink space, the camera should pan to a fixed location
+
+I made a lot of comments throughout the code, so read through them. I hope it's all 
+understandable. Message me if anything confuses you. Sorry if it get's patronizing with overexplainations
+of what you already know. I don't know what you know and didn't want you to miss anything.
+
+You should know going into this what an instance id is. If you don't know, whenever you 
+drag an object into a room, it creates an instance of that object with a unique id. You can use
+this id to refrence that specific instance.
